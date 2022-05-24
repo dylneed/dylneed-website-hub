@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Can you predict if a post will go viral on Tumblr?",
+    "repo": "https://github.com/dylneed/ViralTumblrNLP"
+  },
+  {
+    "name": "Shopify Technical Challenge 2022",
+    "website": "https://dylneed.github.io/ShopifyTechnicalChallenge2022/",
+    "repo": "https://github.com/dylneed/ShopifyTechnicalChallenge2022"
+  },
+  {
+    "name": "Shopify Technical Challenge 2021",
+    "website": "https://dylneed.github.io/ShopifyTechnicalChallenge2021/",
+    "repo": "https://dylneed.github.io/ShopifyTechnicalChallenge2021/"
+  },
+  {
+    "name": "Rhythmic Memory Game",
+    "website": "https://dylneed.github.io/RhythmicMemory/",
+    "repo": "https://github.com/dylneed/RhythmicMemory"
+  },
+  {
+    "name": "Github Pages Main Site",
+    "website": "https://dylneed.github.io",
+    "repo": "https://github.com/dylneed/dylneed.github.io"
+  }
+]

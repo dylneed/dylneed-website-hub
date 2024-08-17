@@ -9,6 +9,11 @@
     "repo": "https://github.com/dylneed/ViralTumblrNLP"
   },
   {
+    "name": "Github Website Hub",
+    "website": "https://dylneed.github.io/dylneed-website-hub/",
+    "repo": "https://github.com/dylneed/dylneed-website-hub"
+  },
+  {
     "name": "Shopify Technical Challenge 2022",
     "website": "https://dylneed.github.io/ShopifyTechnicalChallenge2022/",
     "repo": "https://github.com/dylneed/ShopifyTechnicalChallenge2022"
@@ -31,10 +36,5 @@
   {
     "name": "Dice Bot",
     "repo": "https://github.com/dylneed/DiceBot"
-  },
-  {
-    "name": "Github Website Hub",
-    "website": "https://dylneed.github.io/dylneed-website-hub/",
-    "repo": "https://github.com/dylneed/dylneed-website-hub"
   }
 ]

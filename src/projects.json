@@ -1,5 +1,10 @@
 [
   {
+    "name": "Spotify Song Length",
+    "website": "https://dylneed.github.io/Spotify-Song-Length/",
+    "repo": "https://github.com/dylneed/Spotify-Song-Length",
+  },
+  {
     "name": "Can you predict if a post will go viral on Tumblr?",
     "repo": "https://github.com/dylneed/ViralTumblrNLP"
   },
